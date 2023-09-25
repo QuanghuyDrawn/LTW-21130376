@@ -1,0 +1,10 @@
+#header {}
+
+#navigation {}
+
+.border-solid-lightgray {
+    border: 1px solid lightgray;
+}
+#body{
+    height: 500px;
+}

@@ -1,0 +1,13 @@
+#header {
+    height: 100px;
+    background-color: rgb(165, 164, 164);
+}
+
+#navigation {}
+
+.border-solid-lightgray {
+    border: 1px solid lightgray;
+}
+#body{
+    height: 500px;
+}
